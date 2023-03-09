@@ -47,7 +47,7 @@ const pokeMan =async ()=>{
             </div>
         </div>
         <div class="card-actions justify-center">
-            <button onclick="autoReload()" class="btn btn-primary">Buy Now</button>
+            <button onclick="autoReload()" class="btn btn-primary">New Generate</button>
         </div>
         `;
         pokeManContainer.appendChild(div);
